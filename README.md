@@ -1,7 +1,5 @@
-<p align="center" float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="200" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="200" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" width="200" /> 
+<p align="center">
+  <img src="https://logospng.org/download/wordpress/logo-wordpress-2048.png" width="400" />
 </p>
 
 # Índice
@@ -15,13 +13,13 @@
 
 # 🔍 Sobre
 
-Este projeto foi desenvolvido para a capacitação front-end 2021.1, tendo como base o curso Web Design Completo Origamid.
+O site Bikcraft foi desenvolvido para a capacitação Wordpress 2021.1, tendo como base o curso Wordpress como CMS Origamid.
 
 ---
 
 # 📚 O curso realizado
 
-- [Origamid: Web Design Completo](https://www.origamid.com/curso/web-design-completo/)
+- [Origamid: Wordpress como CMS](https://www.origamid.com/curso/wordpress-como-cms/)
 
 ---
 
@@ -29,7 +27,8 @@ Este projeto foi desenvolvido para a capacitação front-end 2021.1, tendo como 
 
 Foram utilizadas as seguintes tecnologias:
 
-- HTML5
+- Wordpress
+- HTML
 - CSS
 - Javascript
 
@@ -39,10 +38,10 @@ Foram utilizadas as seguintes tecnologias:
 
 ```bash
 #Clonar o projeto
-$ git clone https://github.com/MFnovaes/capacitacao-front.git
+$ git clone https://github.com/MFnovaes/BikcraftWordpress
 
 #Entrar na pasta
-$ cd capacitacao-front
+$ cd BikcraftWordpress
 ```
 
 ---
